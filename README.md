@@ -42,6 +42,10 @@ The analysis covers **overall trends** and **gender-wise breakdowns** (Male, Fem
 - Visualizations were created using **Python (Matplotlib, Seaborn)** and **Power BI dashboards** for interactive exploration.  
 
 ---
+## 📈 Sample Visualizations
+
+
+---
 
 ## Tools Used
 - **Python:** Data cleaning, analysis, and visualization  
