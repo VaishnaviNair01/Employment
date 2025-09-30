@@ -43,7 +43,7 @@ The analysis covers **overall trends** and **gender-wise breakdowns** (Male, Fem
 
 ---
 ## 📈 Sample Visualizations
-
+[https://github.com/VaishnaviNair01/Employment/blob/main/Labour_gender_pdf.pdf]
 
 ---
 
