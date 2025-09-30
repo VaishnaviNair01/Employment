@@ -39,7 +39,7 @@ The analysis covers **overall trends** and **gender-wise breakdowns** (Male, Fem
 - **Overall Trends:** LFPR, WPR, and UR were analyzed over the years to observe changes in employment patterns.  
 - **Gender-wise Analysis:** Employment indicators were broken down by gender to highlight differences among Male and Female populations.  
 - **Distribution Analysis:** The dataset was visualized to show the proportion of each gender in the workforce.  
-- Visualizations were created using **Python (Matplotlib, Seaborn)** and **Power BI dashboards** for interactive exploration.  
+- Visualizations were created using **Python (Matplotlib)** and **Power BI dashboards** for interactive exploration.  
 
 ---
 ## 📈 Sample Visualizations
