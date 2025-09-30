@@ -46,6 +46,15 @@ The analysis covers **overall trends** and **gender-wise breakdowns** (Male, Fem
 [https://github.com/VaishnaviNair01/Employment/blob/main/Labour_gender_pdf.pdf]
 
 ---
+## Key Insights
+
+- **Labour Force Participation:** The overall Labour Force Participation Rate (LFPR) stands around 55%, with a Workforce Participation Rate (WPR) of ~52%, indicating a small gap accounted for by unemployment.  
+- **Unemployment Trends:** The Unemployment Rate (UR) is approximately 5%, showing a modest proportion of the working-age population actively seeking work but currently unemployed.  
+- **Gender Disparities:** Male participation in the workforce is significantly higher than female participation, highlighting persistent gender gaps in employment.    
+- **Temporal Stability:** Across the years analyzed, the rates remain relatively stable, suggesting that large-scale shifts in labour market dynamics are gradual.  
+- **Policy Implications:** Small differences between LFPR and the sum of WPR + UR emphasize the need to focus on accurate data collection and targeted employment programs to capture informal employment trends.  
+
+---
 
 ## Tools Used
 - **Python:** Data cleaning, analysis, and visualization  
