@@ -73,4 +73,4 @@ The analysis covers **overall trends** and **gender-wise breakdowns** (Male, Fem
 
 - ## Author
  Vaishnavi Nair
- M.Sc. in Mathematics and Computing from NIT Hamirpur
+- M.Sc. in Mathematics and Computing from NIT Hamirpur
