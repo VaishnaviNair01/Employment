@@ -1,7 +1,5 @@
-# Employment
-Employment Data Analysis Project :This project explores key employment indicators - Labour Force Participation Rate (LFPR), Worker Population Ratio (WPR), and Unemployment Rate (UR). Using survey data, it visualizes overall trends 
-
 # Employment Data Analysis (India)
+Employment Data Analysis Project :This project explores key employment indicators - Labour Force Participation Rate (LFPR), Worker Population Ratio (WPR), and Unemployment Rate (UR). Using survey data, it visualizes overall trends 
 
 ## Project Overview
 This project analyzes key employment indicators in India, including:
